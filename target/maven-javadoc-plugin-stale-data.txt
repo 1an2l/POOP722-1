@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP7 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/angel/Downloads/POOP7 (1)/POOP7/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP7 1.0-SNAPSHOT API'
+poo.poop7
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Animal.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/AnimalAcuatico.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/AnimalAereo.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/AnimalTerrestre.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Ballena.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Empleado.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Gerente.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Main.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Pajaro.java'
+'C:/Users/angel/Downloads/POOP7 (1)/POOP7/src/main/java/poo/poop7/Perro.java'
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\src\main\java = 1636012695000
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\allclasses-frame.html = 1636014239466
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\allclasses-noframe.html = 1636014239468
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\constant-values.html = 1636014239372
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\deprecated-list.html = 1636014239463
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\help-doc.html = 1636014239472
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\index-all.html = 1636014239458
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\index.html = 1636014239470
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\overview-tree.html = 1636014239443
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\package-list = 1636014239348
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\script.js = 1636014239476
+C:\Users\angel\Downloads\POOP7 (1)\POOP7\target\site\apidocs\stylesheet.css = 1636014239475
